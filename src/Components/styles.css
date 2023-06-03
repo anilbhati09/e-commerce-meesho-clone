@@ -1,0 +1,15 @@
+    .data-card-btn {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  
+  .data-card-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  

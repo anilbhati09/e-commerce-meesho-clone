@@ -1,0 +1,16 @@
+.cart-main-container{
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+}
+
+.checkout-btn{
+    background-color: rgb(255, 0, 234) ;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+    margin-bottom: 50px;
+    width: 40%;
+}
